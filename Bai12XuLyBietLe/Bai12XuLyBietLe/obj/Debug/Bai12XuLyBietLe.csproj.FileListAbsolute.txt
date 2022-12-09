@@ -1,0 +1,8 @@
+E:\C#\sourceCode\Bai12XuLyBietLe\Bai12XuLyBietLe\bin\Debug\Bai12XuLyBietLe.exe.config
+E:\C#\sourceCode\Bai12XuLyBietLe\Bai12XuLyBietLe\bin\Debug\Bai12XuLyBietLe.exe
+E:\C#\sourceCode\Bai12XuLyBietLe\Bai12XuLyBietLe\bin\Debug\Bai12XuLyBietLe.pdb
+E:\C#\sourceCode\Bai12XuLyBietLe\Bai12XuLyBietLe\obj\Debug\Bai12XuLyBietLe.csproj.AssemblyReference.cache
+E:\C#\sourceCode\Bai12XuLyBietLe\Bai12XuLyBietLe\obj\Debug\Bai12XuLyBietLe.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\Bai12XuLyBietLe\Bai12XuLyBietLe\obj\Debug\Bai12XuLyBietLe.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\Bai12XuLyBietLe\Bai12XuLyBietLe\obj\Debug\Bai12XuLyBietLe.exe
+E:\C#\sourceCode\Bai12XuLyBietLe\Bai12XuLyBietLe\obj\Debug\Bai12XuLyBietLe.pdb

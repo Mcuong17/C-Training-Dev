@@ -1,0 +1,15 @@
+E:\C#\sourceCode\testPlugin\bin\Debug\net6.0\testPlugin.exe
+E:\C#\sourceCode\testPlugin\bin\Debug\net6.0\testPlugin.deps.json
+E:\C#\sourceCode\testPlugin\bin\Debug\net6.0\testPlugin.runtimeconfig.json
+E:\C#\sourceCode\testPlugin\bin\Debug\net6.0\testPlugin.dll
+E:\C#\sourceCode\testPlugin\bin\Debug\net6.0\testPlugin.pdb
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\testPlugin.csproj.AssemblyReference.cache
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\testPlugin.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\testPlugin.AssemblyInfoInputs.cache
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\testPlugin.AssemblyInfo.cs
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\testPlugin.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\testPlugin.dll
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\refint\testPlugin.dll
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\testPlugin.pdb
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\testPlugin.genruntimeconfig.cache
+E:\C#\sourceCode\testPlugin\obj\Debug\net6.0\ref\testPlugin.dll

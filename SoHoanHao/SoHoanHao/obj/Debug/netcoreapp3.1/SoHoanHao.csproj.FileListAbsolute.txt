@@ -1,0 +1,14 @@
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.exe
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.deps.json
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.runtimeconfig.json
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.runtimeconfig.dev.json
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.dll
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\bin\Debug\netcoreapp3.1\SoHoanHao.pdb
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.csproj.AssemblyReference.cache
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.AssemblyInfoInputs.cache
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.AssemblyInfo.cs
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.dll
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.pdb
+E:\C#\sourceCode\SoHoanHao\SoHoanHao\obj\Debug\netcoreapp3.1\SoHoanHao.genruntimeconfig.cache

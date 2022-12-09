@@ -1,0 +1,8 @@
+E:\C#\sourceCode\ProjectTraCuuTuDienAnhViet\ProjectTraCuuTuDienAnhViet\bin\Debug\ProjectTraCuuTuDienAnhViet.exe.config
+E:\C#\sourceCode\ProjectTraCuuTuDienAnhViet\ProjectTraCuuTuDienAnhViet\bin\Debug\ProjectTraCuuTuDienAnhViet.exe
+E:\C#\sourceCode\ProjectTraCuuTuDienAnhViet\ProjectTraCuuTuDienAnhViet\bin\Debug\ProjectTraCuuTuDienAnhViet.pdb
+E:\C#\sourceCode\ProjectTraCuuTuDienAnhViet\ProjectTraCuuTuDienAnhViet\obj\Debug\ProjectTraCuuTuDienAnhViet.csproj.AssemblyReference.cache
+E:\C#\sourceCode\ProjectTraCuuTuDienAnhViet\ProjectTraCuuTuDienAnhViet\obj\Debug\ProjectTraCuuTuDienAnhViet.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\ProjectTraCuuTuDienAnhViet\ProjectTraCuuTuDienAnhViet\obj\Debug\ProjectTraCuuTuDienAnhViet.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\ProjectTraCuuTuDienAnhViet\ProjectTraCuuTuDienAnhViet\obj\Debug\ProjectTraCuuTuDienAnhViet.exe
+E:\C#\sourceCode\ProjectTraCuuTuDienAnhViet\ProjectTraCuuTuDienAnhViet\obj\Debug\ProjectTraCuuTuDienAnhViet.pdb

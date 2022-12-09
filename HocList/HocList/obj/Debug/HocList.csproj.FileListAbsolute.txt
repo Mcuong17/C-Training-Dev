@@ -1,0 +1,8 @@
+E:\C#\sourceCode\HocList\HocList\bin\Debug\HocList.exe.config
+E:\C#\sourceCode\HocList\HocList\bin\Debug\HocList.exe
+E:\C#\sourceCode\HocList\HocList\bin\Debug\HocList.pdb
+E:\C#\sourceCode\HocList\HocList\obj\Debug\HocList.csproj.AssemblyReference.cache
+E:\C#\sourceCode\HocList\HocList\obj\Debug\HocList.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\HocList\HocList\obj\Debug\HocList.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\HocList\HocList\obj\Debug\HocList.exe
+E:\C#\sourceCode\HocList\HocList\obj\Debug\HocList.pdb

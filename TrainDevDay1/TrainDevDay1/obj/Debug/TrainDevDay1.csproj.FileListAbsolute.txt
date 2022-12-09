@@ -1,0 +1,8 @@
+E:\C#\sourceCode\TrainDevDay1\TrainDevDay1\bin\Debug\TrainDevDay1.exe.config
+E:\C#\sourceCode\TrainDevDay1\TrainDevDay1\bin\Debug\TrainDevDay1.exe
+E:\C#\sourceCode\TrainDevDay1\TrainDevDay1\bin\Debug\TrainDevDay1.pdb
+E:\C#\sourceCode\TrainDevDay1\TrainDevDay1\obj\Debug\TrainDevDay1.csproj.AssemblyReference.cache
+E:\C#\sourceCode\TrainDevDay1\TrainDevDay1\obj\Debug\TrainDevDay1.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\TrainDevDay1\TrainDevDay1\obj\Debug\TrainDevDay1.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\TrainDevDay1\TrainDevDay1\obj\Debug\TrainDevDay1.exe
+E:\C#\sourceCode\TrainDevDay1\TrainDevDay1\obj\Debug\TrainDevDay1.pdb

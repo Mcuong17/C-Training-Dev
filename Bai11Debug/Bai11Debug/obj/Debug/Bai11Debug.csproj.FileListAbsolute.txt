@@ -1,0 +1,8 @@
+E:\C#\sourceCode\Bai11Debug\Bai11Debug\bin\Debug\Bai11Debug.exe.config
+E:\C#\sourceCode\Bai11Debug\Bai11Debug\bin\Debug\Bai11Debug.exe
+E:\C#\sourceCode\Bai11Debug\Bai11Debug\bin\Debug\Bai11Debug.pdb
+E:\C#\sourceCode\Bai11Debug\Bai11Debug\obj\Debug\Bai11Debug.csproj.AssemblyReference.cache
+E:\C#\sourceCode\Bai11Debug\Bai11Debug\obj\Debug\Bai11Debug.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\Bai11Debug\Bai11Debug\obj\Debug\Bai11Debug.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\Bai11Debug\Bai11Debug\obj\Debug\Bai11Debug.exe
+E:\C#\sourceCode\Bai11Debug\Bai11Debug\obj\Debug\Bai11Debug.pdb

@@ -1,0 +1,8 @@
+E:\C#\sourceCode\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe.config
+E:\C#\sourceCode\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.exe
+E:\C#\sourceCode\GameDoanSo\GameDoanSo\bin\Debug\GameDoanSo.pdb
+E:\C#\sourceCode\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.csproj.AssemblyReference.cache
+E:\C#\sourceCode\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.exe
+E:\C#\sourceCode\GameDoanSo\GameDoanSo\obj\Debug\GameDoanSo.pdb

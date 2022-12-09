@@ -1,0 +1,8 @@
+E:\C#\sourceCode\KhaiNiemLienQuanOOP\KhaiNiemLienQuanOOP\bin\Debug\KhaiNiemLienQuanOOP.exe.config
+E:\C#\sourceCode\KhaiNiemLienQuanOOP\KhaiNiemLienQuanOOP\bin\Debug\KhaiNiemLienQuanOOP.exe
+E:\C#\sourceCode\KhaiNiemLienQuanOOP\KhaiNiemLienQuanOOP\bin\Debug\KhaiNiemLienQuanOOP.pdb
+E:\C#\sourceCode\KhaiNiemLienQuanOOP\KhaiNiemLienQuanOOP\obj\Debug\KhaiNiemLienQuanOOP.csproj.AssemblyReference.cache
+E:\C#\sourceCode\KhaiNiemLienQuanOOP\KhaiNiemLienQuanOOP\obj\Debug\KhaiNiemLienQuanOOP.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\KhaiNiemLienQuanOOP\KhaiNiemLienQuanOOP\obj\Debug\KhaiNiemLienQuanOOP.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\KhaiNiemLienQuanOOP\KhaiNiemLienQuanOOP\obj\Debug\KhaiNiemLienQuanOOP.exe
+E:\C#\sourceCode\KhaiNiemLienQuanOOP\KhaiNiemLienQuanOOP\obj\Debug\KhaiNiemLienQuanOOP.pdb

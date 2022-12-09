@@ -1,0 +1,8 @@
+E:\C#\sourceCode\HocMang\HocMang\bin\Debug\HocMang.exe.config
+E:\C#\sourceCode\HocMang\HocMang\bin\Debug\HocMang.exe
+E:\C#\sourceCode\HocMang\HocMang\bin\Debug\HocMang.pdb
+E:\C#\sourceCode\HocMang\HocMang\obj\Debug\HocMang.csproj.AssemblyReference.cache
+E:\C#\sourceCode\HocMang\HocMang\obj\Debug\HocMang.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\HocMang\HocMang\obj\Debug\HocMang.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\HocMang\HocMang\obj\Debug\HocMang.exe
+E:\C#\sourceCode\HocMang\HocMang\obj\Debug\HocMang.pdb

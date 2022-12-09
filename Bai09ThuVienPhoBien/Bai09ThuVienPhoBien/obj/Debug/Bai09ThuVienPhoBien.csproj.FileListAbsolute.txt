@@ -1,0 +1,8 @@
+E:\C#\sourceCode\Bai09ThuVienPhoBien\Bai09ThuVienPhoBien\bin\Debug\Bai09ThuVienPhoBien.exe.config
+E:\C#\sourceCode\Bai09ThuVienPhoBien\Bai09ThuVienPhoBien\bin\Debug\Bai09ThuVienPhoBien.exe
+E:\C#\sourceCode\Bai09ThuVienPhoBien\Bai09ThuVienPhoBien\bin\Debug\Bai09ThuVienPhoBien.pdb
+E:\C#\sourceCode\Bai09ThuVienPhoBien\Bai09ThuVienPhoBien\obj\Debug\Bai09ThuVienPhoBien.csproj.AssemblyReference.cache
+E:\C#\sourceCode\Bai09ThuVienPhoBien\Bai09ThuVienPhoBien\obj\Debug\Bai09ThuVienPhoBien.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\Bai09ThuVienPhoBien\Bai09ThuVienPhoBien\obj\Debug\Bai09ThuVienPhoBien.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\Bai09ThuVienPhoBien\Bai09ThuVienPhoBien\obj\Debug\Bai09ThuVienPhoBien.exe
+E:\C#\sourceCode\Bai09ThuVienPhoBien\Bai09ThuVienPhoBien\obj\Debug\Bai09ThuVienPhoBien.pdb

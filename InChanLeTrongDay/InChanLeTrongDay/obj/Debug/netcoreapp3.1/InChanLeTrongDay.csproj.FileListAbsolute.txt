@@ -1,0 +1,14 @@
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\bin\Debug\netcoreapp3.1\InChanLeTrongDay.exe
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\bin\Debug\netcoreapp3.1\InChanLeTrongDay.deps.json
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\bin\Debug\netcoreapp3.1\InChanLeTrongDay.runtimeconfig.json
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\bin\Debug\netcoreapp3.1\InChanLeTrongDay.runtimeconfig.dev.json
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\bin\Debug\netcoreapp3.1\InChanLeTrongDay.dll
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\bin\Debug\netcoreapp3.1\InChanLeTrongDay.pdb
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\obj\Debug\netcoreapp3.1\InChanLeTrongDay.csproj.AssemblyReference.cache
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\obj\Debug\netcoreapp3.1\InChanLeTrongDay.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\obj\Debug\netcoreapp3.1\InChanLeTrongDay.AssemblyInfoInputs.cache
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\obj\Debug\netcoreapp3.1\InChanLeTrongDay.AssemblyInfo.cs
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\obj\Debug\netcoreapp3.1\InChanLeTrongDay.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\obj\Debug\netcoreapp3.1\InChanLeTrongDay.dll
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\obj\Debug\netcoreapp3.1\InChanLeTrongDay.pdb
+E:\C#\sourceCode\InChanLeTrongDay\InChanLeTrongDay\obj\Debug\netcoreapp3.1\InChanLeTrongDay.genruntimeconfig.cache

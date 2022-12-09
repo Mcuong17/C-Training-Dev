@@ -1,0 +1,14 @@
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\bin\Debug\netcoreapp3.1\GiaiPTBac2.exe
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\bin\Debug\netcoreapp3.1\GiaiPTBac2.deps.json
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\bin\Debug\netcoreapp3.1\GiaiPTBac2.runtimeconfig.json
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\bin\Debug\netcoreapp3.1\GiaiPTBac2.runtimeconfig.dev.json
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\bin\Debug\netcoreapp3.1\GiaiPTBac2.dll
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\bin\Debug\netcoreapp3.1\GiaiPTBac2.pdb
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\obj\Debug\netcoreapp3.1\GiaiPTBac2.csproj.AssemblyReference.cache
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\obj\Debug\netcoreapp3.1\GiaiPTBac2.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\obj\Debug\netcoreapp3.1\GiaiPTBac2.AssemblyInfoInputs.cache
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\obj\Debug\netcoreapp3.1\GiaiPTBac2.AssemblyInfo.cs
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\obj\Debug\netcoreapp3.1\GiaiPTBac2.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\obj\Debug\netcoreapp3.1\GiaiPTBac2.dll
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\obj\Debug\netcoreapp3.1\GiaiPTBac2.pdb
+E:\C#\sourceCode\GiaiPTBac2\GiaiPTBac2\obj\Debug\netcoreapp3.1\GiaiPTBac2.genruntimeconfig.cache

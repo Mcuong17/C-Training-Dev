@@ -1,0 +1,8 @@
+E:\C#\sourceCode\Bai10GameDoanSo\Bai10GameDoanSo\bin\Debug\Bai10GameDoanSo.exe.config
+E:\C#\sourceCode\Bai10GameDoanSo\Bai10GameDoanSo\bin\Debug\Bai10GameDoanSo.exe
+E:\C#\sourceCode\Bai10GameDoanSo\Bai10GameDoanSo\bin\Debug\Bai10GameDoanSo.pdb
+E:\C#\sourceCode\Bai10GameDoanSo\Bai10GameDoanSo\obj\Debug\Bai10GameDoanSo.csproj.AssemblyReference.cache
+E:\C#\sourceCode\Bai10GameDoanSo\Bai10GameDoanSo\obj\Debug\Bai10GameDoanSo.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\Bai10GameDoanSo\Bai10GameDoanSo\obj\Debug\Bai10GameDoanSo.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\Bai10GameDoanSo\Bai10GameDoanSo\obj\Debug\Bai10GameDoanSo.exe
+E:\C#\sourceCode\Bai10GameDoanSo\Bai10GameDoanSo\obj\Debug\Bai10GameDoanSo.pdb

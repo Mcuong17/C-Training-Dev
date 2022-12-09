@@ -1,0 +1,7 @@
+E:\C#\sourceCode\TamGiacCan\TamGiacCan\bin\Debug\TamGiacCan.exe.config
+E:\C#\sourceCode\TamGiacCan\TamGiacCan\bin\Debug\TamGiacCan.exe
+E:\C#\sourceCode\TamGiacCan\TamGiacCan\bin\Debug\TamGiacCan.pdb
+E:\C#\sourceCode\TamGiacCan\TamGiacCan\obj\Debug\TamGiacCan.csproj.AssemblyReference.cache
+E:\C#\sourceCode\TamGiacCan\TamGiacCan\obj\Debug\TamGiacCan.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\TamGiacCan\TamGiacCan\obj\Debug\TamGiacCan.exe
+E:\C#\sourceCode\TamGiacCan\TamGiacCan\obj\Debug\TamGiacCan.pdb

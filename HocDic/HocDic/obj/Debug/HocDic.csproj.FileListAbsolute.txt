@@ -1,0 +1,8 @@
+E:\C#\sourceCode\HocDic\HocDic\bin\Debug\HocDic.exe.config
+E:\C#\sourceCode\HocDic\HocDic\bin\Debug\HocDic.exe
+E:\C#\sourceCode\HocDic\HocDic\bin\Debug\HocDic.pdb
+E:\C#\sourceCode\HocDic\HocDic\obj\Debug\HocDic.csproj.AssemblyReference.cache
+E:\C#\sourceCode\HocDic\HocDic\obj\Debug\HocDic.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\HocDic\HocDic\obj\Debug\HocDic.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\HocDic\HocDic\obj\Debug\HocDic.exe
+E:\C#\sourceCode\HocDic\HocDic\obj\Debug\HocDic.pdb

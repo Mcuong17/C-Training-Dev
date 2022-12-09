@@ -1,0 +1,14 @@
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\bin\Debug\netcoreapp3.1\HinhChuNhat.exe
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\bin\Debug\netcoreapp3.1\HinhChuNhat.deps.json
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\bin\Debug\netcoreapp3.1\HinhChuNhat.runtimeconfig.json
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\bin\Debug\netcoreapp3.1\HinhChuNhat.runtimeconfig.dev.json
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\bin\Debug\netcoreapp3.1\HinhChuNhat.dll
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\bin\Debug\netcoreapp3.1\HinhChuNhat.pdb
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\obj\Debug\netcoreapp3.1\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\obj\Debug\netcoreapp3.1\HinhChuNhat.AssemblyInfoInputs.cache
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\obj\Debug\netcoreapp3.1\HinhChuNhat.AssemblyInfo.cs
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\obj\Debug\netcoreapp3.1\HinhChuNhat.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\obj\Debug\netcoreapp3.1\HinhChuNhat.dll
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\obj\Debug\netcoreapp3.1\HinhChuNhat.pdb
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\obj\Debug\netcoreapp3.1\HinhChuNhat.genruntimeconfig.cache
+E:\C#\sourceCode\HinhChuNhat\HinhChuNhat\obj\Debug\netcoreapp3.1\HinhChuNhat.csproj.AssemblyReference.cache

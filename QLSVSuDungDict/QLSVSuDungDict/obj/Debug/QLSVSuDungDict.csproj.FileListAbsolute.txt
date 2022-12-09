@@ -1,0 +1,8 @@
+E:\C#\sourceCode\QLSVSuDungDict\QLSVSuDungDict\bin\Debug\QLSVSuDungDict.exe.config
+E:\C#\sourceCode\QLSVSuDungDict\QLSVSuDungDict\bin\Debug\QLSVSuDungDict.exe
+E:\C#\sourceCode\QLSVSuDungDict\QLSVSuDungDict\bin\Debug\QLSVSuDungDict.pdb
+E:\C#\sourceCode\QLSVSuDungDict\QLSVSuDungDict\obj\Debug\QLSVSuDungDict.csproj.AssemblyReference.cache
+E:\C#\sourceCode\QLSVSuDungDict\QLSVSuDungDict\obj\Debug\QLSVSuDungDict.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\QLSVSuDungDict\QLSVSuDungDict\obj\Debug\QLSVSuDungDict.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\QLSVSuDungDict\QLSVSuDungDict\obj\Debug\QLSVSuDungDict.exe
+E:\C#\sourceCode\QLSVSuDungDict\QLSVSuDungDict\obj\Debug\QLSVSuDungDict.pdb

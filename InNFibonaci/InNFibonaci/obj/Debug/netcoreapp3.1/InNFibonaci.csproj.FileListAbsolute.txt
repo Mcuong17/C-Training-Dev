@@ -1,0 +1,13 @@
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\bin\Debug\netcoreapp3.1\InNFibonaci.exe
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\bin\Debug\netcoreapp3.1\InNFibonaci.deps.json
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\bin\Debug\netcoreapp3.1\InNFibonaci.runtimeconfig.json
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\bin\Debug\netcoreapp3.1\InNFibonaci.runtimeconfig.dev.json
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\bin\Debug\netcoreapp3.1\InNFibonaci.dll
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\bin\Debug\netcoreapp3.1\InNFibonaci.pdb
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\obj\Debug\netcoreapp3.1\InNFibonaci.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\obj\Debug\netcoreapp3.1\InNFibonaci.AssemblyInfoInputs.cache
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\obj\Debug\netcoreapp3.1\InNFibonaci.AssemblyInfo.cs
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\obj\Debug\netcoreapp3.1\InNFibonaci.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\obj\Debug\netcoreapp3.1\InNFibonaci.dll
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\obj\Debug\netcoreapp3.1\InNFibonaci.pdb
+E:\C#\sourceCode\InNFibonaci\InNFibonaci\obj\Debug\netcoreapp3.1\InNFibonaci.genruntimeconfig.cache

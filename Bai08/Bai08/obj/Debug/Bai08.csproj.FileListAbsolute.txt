@@ -1,0 +1,8 @@
+E:\C#\sourceCode\Bai08\Bai08\bin\Debug\Bai08.exe.config
+E:\C#\sourceCode\Bai08\Bai08\bin\Debug\Bai08.exe
+E:\C#\sourceCode\Bai08\Bai08\bin\Debug\Bai08.pdb
+E:\C#\sourceCode\Bai08\Bai08\obj\Debug\Bai08.csproj.AssemblyReference.cache
+E:\C#\sourceCode\Bai08\Bai08\obj\Debug\Bai08.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\Bai08\Bai08\obj\Debug\Bai08.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\Bai08\Bai08\obj\Debug\Bai08.exe
+E:\C#\sourceCode\Bai08\Bai08\obj\Debug\Bai08.pdb

@@ -1,0 +1,13 @@
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.exe
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.deps.json
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.runtimeconfig.json
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.runtimeconfig.dev.json
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.dll
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\bin\Debug\netcoreapp3.1\SoNguyenTo.pdb
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.AssemblyInfoInputs.cache
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.AssemblyInfo.cs
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.dll
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.pdb
+E:\C#\sourceCode\SoNguyenTo\SoNguyenTo\obj\Debug\netcoreapp3.1\SoNguyenTo.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\bin\Debug\netcoreapp3.1\DaoNguocSo.exe
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\bin\Debug\netcoreapp3.1\DaoNguocSo.deps.json
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\bin\Debug\netcoreapp3.1\DaoNguocSo.runtimeconfig.json
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\bin\Debug\netcoreapp3.1\DaoNguocSo.runtimeconfig.dev.json
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\bin\Debug\netcoreapp3.1\DaoNguocSo.dll
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\bin\Debug\netcoreapp3.1\DaoNguocSo.pdb
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\obj\Debug\netcoreapp3.1\DaoNguocSo.csproj.AssemblyReference.cache
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\obj\Debug\netcoreapp3.1\DaoNguocSo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\obj\Debug\netcoreapp3.1\DaoNguocSo.AssemblyInfoInputs.cache
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\obj\Debug\netcoreapp3.1\DaoNguocSo.AssemblyInfo.cs
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\obj\Debug\netcoreapp3.1\DaoNguocSo.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\obj\Debug\netcoreapp3.1\DaoNguocSo.dll
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\obj\Debug\netcoreapp3.1\DaoNguocSo.pdb
+E:\C#\sourceCode\DaoNguocSo\DaoNguocSo\obj\Debug\netcoreapp3.1\DaoNguocSo.genruntimeconfig.cache

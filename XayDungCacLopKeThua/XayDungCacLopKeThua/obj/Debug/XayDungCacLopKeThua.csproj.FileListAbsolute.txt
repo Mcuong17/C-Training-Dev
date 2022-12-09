@@ -1,0 +1,8 @@
+E:\C#\sourceCode\XayDungCacLopKeThua\XayDungCacLopKeThua\bin\Debug\XayDungCacLopKeThua.exe.config
+E:\C#\sourceCode\XayDungCacLopKeThua\XayDungCacLopKeThua\bin\Debug\XayDungCacLopKeThua.exe
+E:\C#\sourceCode\XayDungCacLopKeThua\XayDungCacLopKeThua\bin\Debug\XayDungCacLopKeThua.pdb
+E:\C#\sourceCode\XayDungCacLopKeThua\XayDungCacLopKeThua\obj\Debug\XayDungCacLopKeThua.csproj.AssemblyReference.cache
+E:\C#\sourceCode\XayDungCacLopKeThua\XayDungCacLopKeThua\obj\Debug\XayDungCacLopKeThua.csproj.SuggestedBindingRedirects.cache
+E:\C#\sourceCode\XayDungCacLopKeThua\XayDungCacLopKeThua\obj\Debug\XayDungCacLopKeThua.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\XayDungCacLopKeThua\XayDungCacLopKeThua\obj\Debug\XayDungCacLopKeThua.exe
+E:\C#\sourceCode\XayDungCacLopKeThua\XayDungCacLopKeThua\obj\Debug\XayDungCacLopKeThua.pdb
