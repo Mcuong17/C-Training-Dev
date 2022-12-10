@@ -77,10 +77,7 @@ namespace Fraction
             }
         }
         // UCLN
-        public void UCLN()
-        {
-
-        }
+        
          
         public void RutGonPhanSo()
         {
@@ -99,7 +96,7 @@ namespace Fraction
             {
                 if((this.tuSo % i == 0) && (this.mauSo % i == 0))
                 {
-                    
+                    Console.Write(i + " ");
                 }
             }
         }

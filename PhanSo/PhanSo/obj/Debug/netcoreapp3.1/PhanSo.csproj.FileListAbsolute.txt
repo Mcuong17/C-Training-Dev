@@ -1,0 +1,14 @@
+E:\C#\sourceCode\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.exe
+E:\C#\sourceCode\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.deps.json
+E:\C#\sourceCode\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.runtimeconfig.json
+E:\C#\sourceCode\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.runtimeconfig.dev.json
+E:\C#\sourceCode\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.dll
+E:\C#\sourceCode\PhanSo\PhanSo\bin\Debug\netcoreapp3.1\PhanSo.pdb
+E:\C#\sourceCode\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.csproj.AssemblyReference.cache
+E:\C#\sourceCode\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.AssemblyInfoInputs.cache
+E:\C#\sourceCode\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.AssemblyInfo.cs
+E:\C#\sourceCode\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.dll
+E:\C#\sourceCode\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.pdb
+E:\C#\sourceCode\PhanSo\PhanSo\obj\Debug\netcoreapp3.1\PhanSo.genruntimeconfig.cache
