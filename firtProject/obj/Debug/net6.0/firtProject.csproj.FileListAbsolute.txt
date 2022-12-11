@@ -1,0 +1,15 @@
+E:\C#\sourceCode\firtProject\bin\Debug\net6.0\firtProject.exe
+E:\C#\sourceCode\firtProject\bin\Debug\net6.0\firtProject.deps.json
+E:\C#\sourceCode\firtProject\bin\Debug\net6.0\firtProject.runtimeconfig.json
+E:\C#\sourceCode\firtProject\bin\Debug\net6.0\firtProject.dll
+E:\C#\sourceCode\firtProject\bin\Debug\net6.0\firtProject.pdb
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\firtProject.csproj.AssemblyReference.cache
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\firtProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\firtProject.AssemblyInfoInputs.cache
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\firtProject.AssemblyInfo.cs
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\firtProject.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\firtProject.dll
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\refint\firtProject.dll
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\firtProject.pdb
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\firtProject.genruntimeconfig.cache
+E:\C#\sourceCode\firtProject\obj\Debug\net6.0\ref\firtProject.dll

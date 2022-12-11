@@ -1,0 +1,14 @@
+E:\C#\sourceCode\QLSV1\QLSV1\bin\Debug\netcoreapp3.1\QLSV1.exe
+E:\C#\sourceCode\QLSV1\QLSV1\bin\Debug\netcoreapp3.1\QLSV1.deps.json
+E:\C#\sourceCode\QLSV1\QLSV1\bin\Debug\netcoreapp3.1\QLSV1.runtimeconfig.json
+E:\C#\sourceCode\QLSV1\QLSV1\bin\Debug\netcoreapp3.1\QLSV1.runtimeconfig.dev.json
+E:\C#\sourceCode\QLSV1\QLSV1\bin\Debug\netcoreapp3.1\QLSV1.dll
+E:\C#\sourceCode\QLSV1\QLSV1\bin\Debug\netcoreapp3.1\QLSV1.pdb
+E:\C#\sourceCode\QLSV1\QLSV1\obj\Debug\netcoreapp3.1\QLSV1.csproj.AssemblyReference.cache
+E:\C#\sourceCode\QLSV1\QLSV1\obj\Debug\netcoreapp3.1\QLSV1.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sourceCode\QLSV1\QLSV1\obj\Debug\netcoreapp3.1\QLSV1.AssemblyInfoInputs.cache
+E:\C#\sourceCode\QLSV1\QLSV1\obj\Debug\netcoreapp3.1\QLSV1.AssemblyInfo.cs
+E:\C#\sourceCode\QLSV1\QLSV1\obj\Debug\netcoreapp3.1\QLSV1.csproj.CoreCompileInputs.cache
+E:\C#\sourceCode\QLSV1\QLSV1\obj\Debug\netcoreapp3.1\QLSV1.dll
+E:\C#\sourceCode\QLSV1\QLSV1\obj\Debug\netcoreapp3.1\QLSV1.pdb
+E:\C#\sourceCode\QLSV1\QLSV1\obj\Debug\netcoreapp3.1\QLSV1.genruntimeconfig.cache
